@@ -6,4 +6,9 @@ How the understanding of Statistics is helpful in the Data Science field has bee
 
 ### Concepts covered:
 - Estimating any regression function and then fitting a regression line to it
-- Least square estimates of $\beta_0$ and $\beta_1$
+- Least square estimates & Likelihood function of linear regression parameters
+- Confidence interval & prediction interval
+- Detaling of ANOVA (Analysis of Variance) table
+- Pearson & Spearman correlation coefficient
+- Histogram, Scatterplots & Transformation
+- Lack of fit testing
